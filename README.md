@@ -6,4 +6,4 @@ Machine Learning Algorithms From Scratch
 2. Multi-Variate Linear Regression
 
 ## Day 2
-Polynomial Regression
+1. Polynomial Regression
