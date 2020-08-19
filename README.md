@@ -7,3 +7,6 @@ Machine Learning Algorithms From Scratch
 
 ## Day 2
 1. Polynomial Regression
+
+## Day3
+1. Classification through Linear Regression
